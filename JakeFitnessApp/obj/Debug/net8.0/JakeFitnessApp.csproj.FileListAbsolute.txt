@@ -1,0 +1,15 @@
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/bin/Debug/net8.0/JakeFitnessApp
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/bin/Debug/net8.0/JakeFitnessApp.deps.json
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/bin/Debug/net8.0/JakeFitnessApp.runtimeconfig.json
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/bin/Debug/net8.0/JakeFitnessApp.dll
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/bin/Debug/net8.0/JakeFitnessApp.pdb
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/JakeFitnessApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/JakeFitnessApp.AssemblyInfoInputs.cache
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/JakeFitnessApp.AssemblyInfo.cs
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/JakeFitnessApp.csproj.CoreCompileInputs.cache
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/JakeFitnessApp.sourcelink.json
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/JakeFitnessApp.dll
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/refint/JakeFitnessApp.dll
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/JakeFitnessApp.pdb
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/JakeFitnessApp.genruntimeconfig.cache
+/workspaces/Jmand2-CS690-Project/JakeFitnessApp/obj/Debug/net8.0/ref/JakeFitnessApp.dll
