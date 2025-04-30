@@ -79,13 +79,14 @@ namespace JakeFitnessApp
             weeklyMealPlan.Generate(preferences);
         }
 
+
         private void GenerateGroceryList()
         {
-            if (weeklyMealPlan.Meals.Count == 0)
-            {
-                Console.WriteLine("Please generate a meal plan first.");
-                return;
-            }
+            if (weeklyMealPlan.Meals.Count < 21)
+{
+    Console.WriteLine("\n Please generate a full weekly meal plan first (7 days, 3 meals per day).\n");
+    return;
+}
 
             var groceryList = weeklyMealPlan.GenerateGroceryList();
             Console.WriteLine("\nGrocery List:");
@@ -93,6 +94,7 @@ namespace JakeFitnessApp
             {
                 Console.WriteLine($"- {item.Key}: {item.Value} unit(s)");
             }
+            Console.WriteLine("\n Grocery list generated successfully!\n");
         }
 
         private int GetValidInt(string prompt)
